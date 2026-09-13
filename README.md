@@ -32,3 +32,6 @@ This system is designed as a foundational mechanism for implementing search algo
 
 
 * **Database:** In-memory `std::vector`
+
+* <img width="1408" height="768" alt="conrolmap" src="https://github.com/user-attachments/assets/522523d0-ade1-45c7-8e90-d5fe4d9577bc" />
+
