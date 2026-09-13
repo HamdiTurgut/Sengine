@@ -28,8 +28,6 @@ This system is designed as a foundational mechanism for implementing search algo
 * **Frontend:** C++ Standard Output (`std::cout` / Terminal UI)
 
 
-* **Backend:** C++ (Core loop logic, C-style string conversions)
-
 
 * **Database:** In-memory `std::vector`
 
